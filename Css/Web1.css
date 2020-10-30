@@ -17,8 +17,8 @@ main{
     padding: 10px;
 }
 body{
-    background-image: url(../img/9d3b20f8eb9ebbbd8fa43da15bc053e2.jpg) ;
-    background-size:cover ;
+    background-image: url(../Img/284-2840437_gunship-dark-all-day.jpg) ;
+    background-size: 1500px 2300px;
 }
 img{
     width: 250px;
@@ -61,5 +61,5 @@ img{
     text-align: center;  
     display: inline-block;  
     width: 250px;
-    margin: 50px 50px 50px 80px;}  
+    margin: 50px 50px 50px 80px;
 }
