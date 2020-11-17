@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <link rel="stylesheet" href="../Css/abc.css">
+    <link rel="stylesheet" href="../Css/Dangnhap.css">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,13 +11,15 @@
     <Header>
         <h1 >Login</h1>
         <form action="#">
-            <input class="tendangnhap" type="text" placeholder=" Username"> <br>
-            <input class="matkhau" type="password" placeholder=" Password"><br>
-            <button ><h3><a href="../html/Web1.html">Sign in</a> </h3></button>
+            <input class="tendangnhap" type="text" id="email" placeholder=" Username"> <br>
+            <input class="matkhau" type="password" id="Password" placeholder=" Password"><br>
+            <button class="formButton" onclick="caseblock" ><h3><a href="../html/Web1.html">Sign in</a> </h3></button>
+            <p id="Checkcase">Login False,Pls Try Again</p>
             <p>Not a memmer <a class="UwU" href="../html/Dang kí.html">sign up</a> </p>
             
         </form>
     </Header>
+    <script src="../Js/Dangnhap.js"></script>
     
 </body>
 </html>

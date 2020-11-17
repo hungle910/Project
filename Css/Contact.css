@@ -1,0 +1,26 @@
+#Thedivtonhat{
+    text-align: center;
+    border:1px solid black ;
+    margin: 100px 350px;
+    background-color: white;
+}
+Body{
+    background-image: url(../Img/Hinhnendautruongchanlydepnhat15e7eccb8dbb4f_5abfbc798434fbe082a09236905b14df.jpg);
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inputnho{
+    width: 450px;
+    margin-bottom: 10px;
+}
+h1{
+    color:white;
+}
+button{
+    margin: 10px 200px 10px 200px;
+}
+#inputnho{
+    width: 450px;
+    height: 50px;
+    
+}

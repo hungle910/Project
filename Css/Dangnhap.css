@@ -45,3 +45,7 @@ h1{
 p{
     color: rgb(54, 107, 150, 0.6) ;
 }
+#Checkcase{
+    color: red;
+    display: none;
+}
