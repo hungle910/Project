@@ -1,7 +1,7 @@
 account_email = 'Hungle@admin'
 acount_password = '12345678'
 
-function signIn() {
+function SignIn() {
     let email_input = document.getElementById('email').value
     let password_input = document.getElementById('Password').value;
     let caseBlock = document.getElementById('checkcase');
