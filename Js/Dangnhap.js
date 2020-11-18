@@ -1,5 +1,5 @@
-account_email = 'admin@admin'
-acount_password = 'password'
+account_email = 'Hungle@admin'
+acount_password = '12345678'
 
 function signIn() {
     let email_input = document.getElementById('email').value
